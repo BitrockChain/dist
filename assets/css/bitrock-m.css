@@ -1,0 +1,99 @@
+@media (max-width: 820px) {
+	p {
+		font-size: 15px;
+	}
+
+	.nav-pills {
+		display: flex;
+		flex-direction: column;
+	}
+
+	#wrapcontent .intro {
+		padding-top: 220px;
+		padding-left: 20px;
+		padding-right: 20px;
+		padding-bottom: 50px;
+	}
+
+	.rocktext {
+		font-size: 40px;
+	}
+
+	.card-text {
+		font-size: 16px;
+	}
+
+	.m-break {
+		margin-bottom: 10px;
+	}
+
+	.list-group-horizontal {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.list-group-item img {
+		width: 80px !important;
+	}
+
+	.chainstats {
+		padding: 20px 20px;
+	}
+
+	.chainstats span p {
+		font-size: 14px;
+	}
+
+	#wrapcontent {
+		height: 670px;
+		/* background: url(../img/section-m.png); */
+		background: url('../img/bg_2_m.png?v=1.2');
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
+
+	.chainstats span h2 {
+		font-size: 25px;
+		font-weight: 400;
+	}
+
+	.about {
+		padding: 30px;
+		margin-top: 40px;
+	}
+
+	.markettext {
+		text-align: center;
+	}
+
+	.marketImg {
+		text-align: center;
+	}
+
+	.marketImg img {
+		width: 140px;
+	}
+
+	.chain-list .list-group-item {
+		padding: 15px 15px;
+	}
+
+	.build {
+		/* background: url(../img/bg_2_m.png); */
+		background-repeat: no-repeat;
+		/* background-repeat: repeat; */
+	}
+
+	.btn-rock-2 {
+		margin: 5px 0;
+	}
+
+	.relposition .glow-background {
+		position: absolute;
+		height: 169%;
+		top: -35%;
+		width: 100%;
+		left: -30%;
+	}
+
+}
